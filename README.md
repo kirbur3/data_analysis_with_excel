@@ -1,6 +1,6 @@
 # data_analysis_with_excel
 
-# excel-retail-sales-analysis
+# Excel Retail Sales Analysis
 
 **Repository Overview**
 
